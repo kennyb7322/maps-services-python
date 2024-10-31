@@ -1,4 +1,4 @@
-Python Client for Google Maps Services
+ Client for Maps adderess Services
 ====================================
 
 ![Test](https://github.com/googlemaps/google-maps-services-js/workflows/Test/badge.svg)
